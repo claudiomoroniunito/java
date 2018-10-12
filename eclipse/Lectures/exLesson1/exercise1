@@ -1,0 +1,27 @@
+// Create a class named Person
+
+
+/**
+ * Define some variables:
+ * - a variable common for all Person objects, to count the created objects
+ * - an array to store the number of objects to be created
+ * - a variable proper of each object indicating the name of the person
+ * - another variable indicating the age
+ */
+
+/**
+ * Create a constructor for the Person class taking the name and the age as argument
+ * within the constructor print the information about the object being created
+ */
+ 
+/**
+ * Create an instance method to let the Person object say something 
+ */
+ 
+/**
+ * Create a class method to get the number of objects create so far... is it really necessary?
+ */
+ 
+/**
+ * Create another class method to populate the array of Person objects
+ */

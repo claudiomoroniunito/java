@@ -1,0 +1,36 @@
+/**
+ * Create a method to increment the age of the person:
+ * - use the binary operator 
+ * - then try the unary one
+ * - provide a different version of the method that 
+ * increments the age of an amount specified as argument, 
+ * use assignment operator
+ */
+
+/**
+ * Create a method to check if the age of the person 
+ * is even or odd:
+ * - use the division operator
+ * - use the module operator
+ */
+ 
+ 
+/**
+ * Change the identifier of the name variable to 
+ * fullName, use refactor...
+ */
+ 
+/**
+ * Create a method to update that variable adding 
+ * the surname information, 
+ * have a look at the method provided by String
+ */
+ 
+/**
+ * Create a static method that compares the age of two
+ * Person objects and prints who is younger:
+ * - modify that method using logical operators to 
+ * implement the case they are the same age
+ * - refactor using the ternary operator
+ */
+ 
